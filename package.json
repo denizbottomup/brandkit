@@ -1,0 +1,10 @@
+{
+  "name": "bottomup-daily-poster",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "satori": "^0.12.0",
+    "sharp": "^0.33.5",
+    "twitter-api-v2": "^1.17.2"
+  }
+}
